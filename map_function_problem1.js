@@ -3,3 +3,4 @@ function Squares(element){
     return element*element
 }
 let output=input.map(Squares)
+console.log(output)
